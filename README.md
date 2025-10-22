@@ -54,12 +54,12 @@ To run the project on your local machine for development or testing purposes, fo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Rawwann/fit-core-gym.git](https://github.com/Rawwann/fit-core-gym.git)
+    git clone https://github.com/Rawwann/dji-landing-page.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd fit-core-gym
+    cd dji-landing-page
     ```
     *(Note: If your local project folder has a different name, use that name in the `cd` command)*
 
