@@ -39,7 +39,7 @@ This project is a static landing page for the DJI Mavic 4 Pro drone product. The
 ![Related Produts Screenshot](Images/related-products-dection.png)
 ![Footer Screenshot](Images/footer-section.png)
 
-**Watch the Demo:** [Link to Demo Video](https://drive.google.com/file/d/1Q-u3K2vxjfErHsx7P8s8t2aog_iw_j8G/view?usp=sharing)
+**Watch the Demo:** [Link to Demo Video](https://drive.google.com/file/d/1bSmXXlOW3pmC3_0iU736jOzfjpLOMaF3/view)
 
 ## 🚀 Getting Started
 
